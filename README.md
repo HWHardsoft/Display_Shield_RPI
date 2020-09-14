@@ -10,7 +10,7 @@ https://www.hwhardsoft.de/english/projects/display-shield/
 
 # Electrical connection to Raspberry Pi
 
-![My image]()
+![My image](https://user-images.githubusercontent.com/3049858/93103461-f2690c80-f6ac-11ea-835f-230cc05cce68.png)
 
 
 1. Download the [latest release](https://drive.google.com/open?id=1mo6LHWPsm_JBmMwiMcn8H-1lESI1KIQK)
