@@ -1,7 +1,7 @@
 # Display_Shield_RPI
 This smart OLED shield will extend your Raspberry Pi or Arduino with a grafic OLED display, 3 buttons und 3 additional LEDs. The shape fits exactely in our RasPiBox Open, RasPiBox Zero and ArduiBox Open din rail enclosure sets, but you can use it without these enclosure kits too. 
 
-![My image]()
+![My image](https://user-images.githubusercontent.com/3049858/93102304-9ea9f380-f6ab-11ea-8c89-3532b11c871a.jpg)
 
 ## Website
 You will find more information about the Shield and the latest version of the code at
