@@ -36,7 +36,7 @@ Now you can test the I2C interface:
 ```bash
 i2cdetect -y 1
 ``` 
-![My image]()
+![My image](https://user-images.githubusercontent.com/3049858/93102321-a49fd480-f6ab-11ea-946b-e4acdc55c57a.png)
 
 0x3C is the address of the SH1106 controller and 0x20 is the address of the MCP23008
 
@@ -63,7 +63,9 @@ cd Display_Shield_RPI
 ``` 
 
 to run the demo enter for the standard version:
+```bash
 sudo python3 display_shield.py
+```
 
 Press the 3 buttons to view different screens!
 
